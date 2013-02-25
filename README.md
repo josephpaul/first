@@ -1,4 +1,4 @@
 first
 =====
 
-testing rep
+This my first repository
